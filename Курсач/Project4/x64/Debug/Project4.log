@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\01учебные файлы\c++\01универ\курсач\project4\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\01учебные файлы\c++\01универ\курсач\project4\source.cpp(92): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+d:\01учебные файлы\c++\01универ\курсач\project4\source.cpp(150): warning C4101: 'hdc2': unreferenced local variable
+  Project4.vcxproj -> D:\01Учебные файлы\C++\01Универ\Курсач\x64\Debug\Project4.exe
